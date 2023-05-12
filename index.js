@@ -4,4 +4,6 @@ const constName = "const"
 
 letName = "let1"
 
-console.log(varName)
+letName = "let2"
+
+console.log(letName);
